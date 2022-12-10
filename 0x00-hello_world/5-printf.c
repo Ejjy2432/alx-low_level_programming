@@ -1,6 +1,9 @@
 #include <stdio.h>
+
 /**
- * Prints proper grammar
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
