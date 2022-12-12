@@ -3,11 +3,11 @@
 #include <time.h>
 
 /*
- * Main - Entry point 
+ * Main - Entry point
+ *  
  * Description - Last digit function
  */
 int main(void)
-
 {
 	int n, lastDigit;
 
